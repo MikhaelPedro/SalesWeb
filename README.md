@@ -1,0 +1,1 @@
+Sistema web usando ASP.NET Core MVC e Entity Framework, conectando-se ao banco de dados MySQL. O projeto inclui funcionalidades para gerenciar vendedores, departamentos e vendas. Utilizei os princípios do MVC com Razor e Bootstrap para criar um layout dinâmico. Implementei operações de CRUD e pesquisas usando LINQ para proporcionar uma experiência completa no sistema.
